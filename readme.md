@@ -2,6 +2,12 @@
 This project adds a dark mode for the [Artemis Site](https://artemis.ase.in.tum.de).
 It contains a browser extension that is working on firefox as well as chrome / all chromium based browsers.
 
+![Homepage](./images/homepage.png)
+
+![Courses](./images/course.png)
+
+![Exercise](./images/exercise.png)
+
 # Getting started
 ## Cloning the repository
 First you need to download the repository by either opening a terminal, changing into the desired directory and using
