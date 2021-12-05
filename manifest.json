@@ -8,12 +8,9 @@
     },
     "content_scripts": [
         {
-            "matches": [
-                "*://*.artemis.ase.in.tum.de/*"
-            ],
-            "js": [
-                "darkMode.js"
-            ]
+            "matches": [ "*://*.artemis.ase.in.tum.de/*" ],
+            "js": [ "darkMode.js" ],
+            "css": [ "darkMode.css" ]
         }
     ]
 }
