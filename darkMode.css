@@ -637,7 +637,7 @@ jhi-guided-tour .tour-step .tour-block__content .step-hint.interaction:not(.aler
 }
 
 .ace_content {
-    background-color: #1c1c1c;
+    background-color: #282a36 !important;
     color: #ccc;
 }
 
@@ -694,10 +694,88 @@ svg > g > line {
     stroke: #ccc !important;
 }
 
+.btn-light {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.btn-light:hover {
+    background-color: #2d2d2d !important;
+}
+
+.list-group-item {
+    background-color: transparent !important;
+}
+
+.list-group-item:hover {
+    background-color: #4b4b4b !important;
+}
+
+.ng-fa-icon > svg > path[fill] {
+    fill: #ccc !important;
+}
+
+.stepwizard-step > .btn-light {
+    background-color: #4b4b4b !important;
+}
+
+.card-second-header > .btn-light {
+    background-color: transparent !important;
+}
+
+.card-second-header > .btn-light:hover {
+    background-color: #4b4b4b !important;
+}
+
+.ace_gutter {
+    background-color: #2d2d2d !important;
+}
+
+.ace_active-line {
+    background-color: #44475a !important;
+}
+
+.ace_comment {
+    color: #6272a4 !important;
+}
+
+.ace_type {
+    color: #8be9fd !important;
+}
+
+.ace_identifier, .ace_function {
+    color: #50fa7b !important;
+}
+
+.ace_operator, .ace_modifier, .ace_keyword {
+    color: #ff79c6 !important;
+}
+
+.ace_punctuation, .ace_identifier, .ace_name {
+    color: white !important;
+}
+
+.ace_constant {
+    color: orange !important;
+}
+
+.btn-light {
+    background-color: #ccc !important;
+}
 
 
 
+div.stepwizard-step > div.stepwizard-step--success {
+    background-color: #13ad13 !important;
+}
 
+div.stepwizard-step > div.stepwizard-step--failed {
+    background-color: #da0f0f !important;
+}
+div.stepwizard-step > div.stepwizard-step--success:hover {
+    background-color: #13ad13 !important;
+}
 
-
-
+div.stepwizard-step > div.stepwizard-step--failed:hover {
+    background-color: #da0f0f !important;
+}
