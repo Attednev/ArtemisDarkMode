@@ -18,6 +18,10 @@
     color: #ccc !important;
 }
 
+.card-body pre{
+    background-color: #2d2d2d;
+}
+
 .page-wrapper {
     background-color: #2d2d2d !important;
     color: #ccc !important;
@@ -464,7 +468,8 @@ text {
 }
 
 path {
-    stroke: #ccc !important;
+    stroke: #5e5e5e !important;
+    stroke-linecap: round;
 }
 
 polygon {
