@@ -787,3 +787,7 @@ div.stepwizard-step > div.stepwizard-step--success:hover {
 div.stepwizard-step > div.stepwizard-step--failed:hover {
     background-color: #da0f0f !important;
 }
+
+jhi-programming-exercise-instructions img {
+background-color: #4b4b4b;
+}
