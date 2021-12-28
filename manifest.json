@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "ArtemisDarkMode",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "Adds a dark mode for all webpages matching artemis.ase.",
     "icons": {
         "235": "icons/icon-235.png"
