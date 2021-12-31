@@ -10,9 +10,6 @@ It contains a browser extension that is working on firefox as well as chrome / a
 
 # Getting started
 ## Via the webstore
-### Firebox
-Under review.
-
 ### Chrome
 The package may be found and installed via the [chrome web store](https://chrome.google.com/webstore/detail/artemis-darkmode/gijmcmgbmbciflkifmmmhbdleiifcbdk).
 
