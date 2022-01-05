@@ -801,3 +801,6 @@ background-color: #4b4b4b;
 .modal-content button:hover{
     background-color: #4c4c4c;
 }
+:root {
+    color-scheme: dark; 
+  }
