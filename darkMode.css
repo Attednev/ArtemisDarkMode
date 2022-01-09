@@ -771,8 +771,6 @@ svg > g > line {
     background-color: #ccc !important;
 }
 
-
-
 div.stepwizard-step > div.stepwizard-step--success {
     background-color: #13ad13 !important;
 }
@@ -801,6 +799,21 @@ background-color: #4b4b4b;
 .modal-content button:hover{
     background-color: #4c4c4c;
 }
+
+jhi-course-exercise-card .table-striped > tbody > tr:nth-of-type(2n + 1) > * {
+    color: #ccc;
+}
+
+jhi-programming-exercise-lifecycle .ng-fa-icon > svg > path[fill] {
+    fill: #5e5e5e !important;
+}
+
+jhi-programming-exercise-update .form-select {
+    color: #ccc !important;
+    background-color: #4b4b4b !important ;
+    border-color: #ccc !important;
+}
+
 :root {
     color-scheme: dark; 
-  }
+}
