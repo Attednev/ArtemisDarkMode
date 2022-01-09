@@ -805,3 +805,7 @@ background-color: #4b4b4b;
 jhi-course-exercise-card .table-striped > tbody > tr:nth-of-type(2n + 1) > * {
     color: #ccc;
 }
+
+jhi-programming-exercise-lifecycle .ng-fa-icon > svg > path[fill] {
+    fill: #5e5e5e !important;
+}
