@@ -771,8 +771,6 @@ svg > g > line {
     background-color: #ccc !important;
 }
 
-
-
 div.stepwizard-step > div.stepwizard-step--success {
     background-color: #13ad13 !important;
 }
@@ -814,4 +812,8 @@ jhi-programming-exercise-update .form-select {
     color: #ccc !important;
     background-color: #4b4b4b !important ;
     border-color: #ccc !important;
+}
+
+:root {
+    color-scheme: dark; 
 }
