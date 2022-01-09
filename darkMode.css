@@ -809,3 +809,9 @@ jhi-course-exercise-card .table-striped > tbody > tr:nth-of-type(2n + 1) > * {
 jhi-programming-exercise-lifecycle .ng-fa-icon > svg > path[fill] {
     fill: #5e5e5e !important;
 }
+
+jhi-programming-exercise-update .form-select {
+    color: #ccc !important;
+    background-color: #4b4b4b !important ;
+    border-color: #ccc !important;
+}
