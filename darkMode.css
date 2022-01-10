@@ -149,7 +149,7 @@ pre {
 }
 
 .text-warning {
-    color: #3e8acc !important;
+    color: #FFE80088 !important;
 }
 
 .text-muted {
@@ -408,10 +408,6 @@ button.btn.btn-primary {
 .collapsed-questions {
     color: #ccc !important;
     background-color: #2d2d2d !important;
-}
-
-span {
-    color: white;
 }
 
 .answers-line {
@@ -719,10 +715,6 @@ svg > g > line {
     background-color: #4b4b4b !important;
 }
 
-.ng-fa-icon > svg > path[fill] {
-    fill: #ccc !important;
-}
-
 .stepwizard-step > .btn-light {
     background-color: #4b4b4b !important;
 }
@@ -790,6 +782,10 @@ jhi-programming-exercise-instructions img {
 background-color: #4b4b4b;
 }
 
+jhi-programming-exercise-instructions-step-wizard .ng-fa-icon > svg > path[fill] {
+    fill: #ccc;
+}
+
 .modal-content {
     color: #ccc;
 }
@@ -812,6 +808,10 @@ jhi-programming-exercise-update .form-select {
     color: #ccc !important;
     background-color: #4b4b4b !important ;
     border-color: #ccc !important;
+}
+
+jhi-programming-exercise-plans-and-repositories-preview .col-auto {
+    background-color: #4b4b4b !important;
 }
 
 :root {
