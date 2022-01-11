@@ -825,3 +825,16 @@ jhi-programming-exercise-plans-and-repositories-preview .col-auto {
 :root {
     color-scheme: dark; 
 }
+
+.d-block .list-group-item {
+    color: #ccc;
+    border-color: #ccc;
+}
+
+.btn-outline-p:hover {
+    color: #ccc;
+}
+
+span#user-header[_ngcontent-vcu-c175] {
+    color: #ccc;
+}
