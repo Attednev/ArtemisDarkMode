@@ -11,6 +11,7 @@
     box-shadow: inset -10px 0px 0px 0px #3e8acc;
     background-color: transparent !important;
     color: #3e8acc !important;
+    border-bottom: 1px solid #3e8acc;
 }
 
 .card-body {
@@ -55,15 +56,18 @@
 
 .dropdown-menu {
     background-color: #2d2d2d;
-    color: #3e8acc;
+    color: #ccc;
 }
 
 .dropdown-item {
-    color: #3e8acc;
+    color: #ccc;
 }
 
 .dropdown-header {
-    color: #3e8acc;
+    font-weight: 500 !important;
+    color: #ccc;
+    border-top: 1px solid #3c3c3c;
+    border-bottom: 1px solid #3c3c3c;
 }
 
 .course-info-bar {
